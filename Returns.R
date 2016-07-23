@@ -41,7 +41,6 @@ lm.r1=lm(residuals(fit)~num)
 arma.forecast <- forecast(fit, h = 365)
 
 
-pdf("C:/Users/Alec/Documents/R/Bozenna_Research/Stocks/Returns_Analysis.pdf")
 #Plot Returns, histograms of Returns, and Summary of returns to see if normalized - SHOULD NOT BE NORMAL
 plot(returns, main="Returns vs. Time")
 

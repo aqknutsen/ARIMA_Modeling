@@ -1,3 +1,3 @@
 # ARIMA_Modeling
 
-Example Implementations of ARIMA Models in R
+Random fun with stocks and ARIMA Modeling
